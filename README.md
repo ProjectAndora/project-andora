@@ -16,7 +16,7 @@ Mobile app:
 * TypeScript for cross-platform code
 * RxJS & MVVM
 
-CI, Deployment and testing:
+CI, deployment and testing:
 * Bitrise
 * Google Play tracks
 * Apple TestFlight
