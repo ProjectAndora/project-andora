@@ -28,7 +28,7 @@ Project and team management:
 ## Our open resources
 
 * [Project Andora on GitHub](https://github.com/ProjectAndora)
-* [Project documentation](https://github.com/ProjectAndora/project-andora)
+* [Project documentation](https://github.com/ProjectAndora/project-andora) (including [specs](specs))
 * [Mobile app repo](https://github.com/ProjectAndora/mobile-app)
 * [Repo of prebuilt React Native and dependencies for iOS](https://github.com/ProjectAndora/react-native-prebuild)
 * [Bitrise reports for iOS app](https://app.bitrise.io/app/0c81bf9ad1708a47)
