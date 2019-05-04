@@ -30,7 +30,7 @@ Project and team management:
 * [Project Andora on GitHub](https://github.com/ProjectAndora)
 * [Project documentation](https://github.com/ProjectAndora/project-andora) (including [specs](specs))
 * [Mobile app repo](https://github.com/ProjectAndora/mobile-app)
-* [Repo of prebuilt React Native and dependencies for iOS](https://github.com/ProjectAndora/react-native-prebuild)
+* [Repo of prebuilt React Native and dependencies for iOS](https://github.com/ProjectAndora/react-native-prebuilt)
 * [Bitrise reports for iOS app](https://app.bitrise.io/app/0c81bf9ad1708a47)
 * [Bitrise reports for Android app](https://app.bitrise.io/app/13d5f1a7b9c80f01)
 * [TestFlight join link](https://testflight.apple.com/join/u0BuFjof)
